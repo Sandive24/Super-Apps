@@ -126,12 +126,21 @@ Buat file `apikey.json` di direktori utama dengan isi:
 
 ## 🖼️ Cuplikan Aplikasi
 
-| Modul           | Cuplikan                                      |
-| --------------- | --------------------------------------------- |
-| Konversi Harga  | ![Price Converter](asset/price_converter.png) |
-| Harga Kripto    | ![Price Checker](asset/price_checker.png)     |
-| Cuaca Real-time | ![Cuaca](asset/cuaca.png)                     |
-| CLI Interface   | ![CLI](asset/cli.png)                         |
+### 📌 Konversi Harga
+
+![Price Converter](asset/price_converter.png)
+
+### 📌 Harga Kripto
+
+![Price Checker](asset/price_checker.png)
+
+### 📌 Cuaca Real-time
+
+![Cuaca](asset/cuaca.png)
+
+### 📌 CLI Interface
+
+![CLI](asset/cli.png)
 
 ---
 
